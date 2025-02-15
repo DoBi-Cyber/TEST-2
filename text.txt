@@ -1,0 +1,16 @@
+/hackinglab
+│
+├── /css
+│   └── styles.css          # For your shitty styling
+│
+├── /js
+│   └── script.js           # For your half-assed JavaScript
+│
+├── /includes
+│   └── db.php              # Database connection, don’t fuck this up
+│
+├── index.php               # Main login page
+├── login.php               # Login processing
+├── dashboard.php           # Where you go after logging in
+├── logout.php              # Logout script, because you’ll need it
+└── /assets                 # For your crappy images or whatever
